@@ -29,5 +29,10 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
+
+     public void study() {
+          // TODO - implement Student.study
+          throw new UnsupportedOperationException();
+     }
     
 }
